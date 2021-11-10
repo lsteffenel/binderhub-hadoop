@@ -54,24 +54,24 @@ The list below provides the badges and the hyperlinks for launching Jupyter/Jupy
     
 #### JupyterLab 
   
-  - [![launch @ gke.mybinder.org][badge-jupyterlab-gke-mybinder-org]](https://gke.mybinder.org/v2/gh/thedatasociety/binderhub-hadoop/master?urlpath=lab)
+  - [![launch @ gke.mybinder.org][badge-jupyterlab-gke-mybinder-org]](https://gke.mybinder.org/v2/gh/lsteffenel/binderhub-hadoop/master?urlpath=lab)
 
-  - [![launch @ ovh.mybinder.org][badge-jupyterlab-ovh-mybinder-org]](https://ovh.mybinder.org/v2/gh/thedatasociety/binderhub-hadoop/master?urlpath=lab)
+  - [![launch @ ovh.mybinder.org][badge-jupyterlab-ovh-mybinder-org]](https://ovh.mybinder.org/v2/gh/lsteffenel/binderhub-hadoop/master?urlpath=lab)
 
-  - [![launch @ gesis.org][badge-jupyterlab-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/thedatasociety/binderhub-hadoop/master?urlpath=lab)
+  - [![launch @ gesis.org][badge-jupyterlab-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/lsteffenel/binderhub-hadoop/master?urlpath=lab)
 
-  - [![launch @ pangeo.io][badge-jupyterlab-pangeo-io]](https://binder.pangeo.io/v2/gh/thedatasociety/binderhub-hadoop/master?urlpath=lab)
+  - [![launch @ pangeo.io][badge-jupyterlab-pangeo-io]](https://binder.pangeo.io/v2/gh/lsteffenel/binderhub-hadoop/master?urlpath=lab)
 
 
 #### Jupyter 
   
-  - [![launch @ gke.mybinder.org][badge-jupyter-gke-mybinder-org]](https://gke.mybinder.org/v2/gh/thedatasociety/binderhub-hadoop/master?urlpath=tree)
+  - [![launch @ gke.mybinder.org][badge-jupyter-gke-mybinder-org]](https://gke.mybinder.org/v2/gh/lsteffenel/binderhub-hadoop/master?urlpath=tree)
 
-  - [![launch @ ovh.mybinder.org][badge-jupyter-ovh-mybinder-org]](https://ovh.mybinder.org/v2/gh/thedatasociety/binderhub-hadoop/master?urlpath=tree)
+  - [![launch @ ovh.mybinder.org][badge-jupyter-ovh-mybinder-org]](https://ovh.mybinder.org/v2/gh/lsteffenel/binderhub-hadoop/master?urlpath=tree)
 
-  - [![launch @ gesis.org][badge-jupyter-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/thedatasociety/binderhub-hadoop/master?urlpath=tree)
+  - [![launch @ gesis.org][badge-jupyter-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/lsteffenel/binderhub-hadoop/master?urlpath=tree)
 
-  - [![launch @ pangeo.org][badge-jupyter-pangeo-io]](https://binder.pangeo.io/v2/gh/thedatasociety/binderhub-hadoop/master?urlpath=tree)
+  - [![launch @ pangeo.org][badge-jupyter-pangeo-io]](https://binder.pangeo.io/v2/gh/lsteffenel/binderhub-hadoop/master?urlpath=tree)
 
          
 ### Launching this repository locally using [repo2docker](https://github.com/jupyter/repo2docker)
