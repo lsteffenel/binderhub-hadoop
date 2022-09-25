@@ -3,6 +3,7 @@
 #########################
 
 # Table of contents Jupyter Lab Extension
+jupyter serverextension enable --py nbserverproxy --sys-prefix
 jupyter labextension install @jupyterlab/toc --no-build 
 
 # building jupyterlab extensions
